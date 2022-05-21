@@ -1,0 +1,11 @@
+﻿  ChooseModeWindow.cpp
+  game.cpp
+C:\Users\User\Desktop\Курсовая 2048\Курсовая 2048\game.cpp(34,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  main.cpp
+C:\Users\User\Desktop\Курсовая 2048\Курсовая 2048\main.cpp(4,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  1.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 125 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Курсовая 2048.vcxproj -> C:\Users\User\Desktop\Курсовая 2048\Release\Курсовая 2048.exe
